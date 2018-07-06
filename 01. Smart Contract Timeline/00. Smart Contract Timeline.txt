@@ -8,32 +8,32 @@ Use Case:
 	Developers want to understand how users are interacting with their smart contract. A smart contract is a piece of code that runs within the Ethereum blockchain, allowing a secure execution of some rules. Think of it as an “App” similar to how iPhone/Android has apps. Each interaction with the smart contract results in a few types of actions noted below in “Historical Action” types. Seeing a list of these in a time ordered view, will allow developers to understand the performance, type and use of their smart contract. 
 
 Features:
-	- Show a timestamped timeline, list view, of historical actions of a smart contract.
+	- Show a timestamped timeline, list view, of historical actions of a smart contract.	
+		- Timeline should live inside a “panel”, we use panels in Amberdata to control context of data
+		- Users should be able to scroll within panel to view longer sets of items
 	- Historical Action types:
-	- Event: Name, hash (0xd78301…), date/time
-	- Transaction: hash (0xd78301…), date/time, value, to/from hash
-	- Log: hash (0xd78301…), date/time, value
-	- Timeline should live inside a “panel”, we use panels in Amberdata to control context of data
-	- Users should be able to scroll within panel to view longer sets of items
+		- Event: Name, hash (0xd78301…), date/time
+		- Transaction: hash (0xd78301…), date/time, value, to/from hash
+		- Log: hash (0xd78301…), date/time, value
 
 Deliverables:
 	- UX Wireframe of layout
 	- UI Design of layout, examples of timeline types
 
 ------------------------------------------------------------------------------------------------------------------
-Details
-
-Timeline : of historical actions of a smart contract
-	- List view
-	- Timestamped
-	- Inside a panel
-	- Scrollable (New to Old)
-	- Searchable?
+Design:
+	- Line Segment (For Timeline)
+	- Action Marker (Circle, Arrow, etc.)
+	- Event Icon
+	- Transaction Icon
+	- Log Icon
 	
-
-------------------------------------------------------------------------------------------------------------------
-Design
-
 Color Scheme: 
-	Blue, White, Gray, Sometimes Orange
+	- Blue, White, Gray, Sometimes Orange
+Font(s): 
+	- Segoe UI
+Theme(s): 
+	- Classic, Updated
+
+
 
