@@ -2,7 +2,7 @@
 
 Goal:
 	- Design a Smart Contract Timeline
-	- Complete by July 5th
+	- Complete by July 6th
 
 Use Case:
 	Developers want to understand how users are interacting with their smart contract. A smart contract is a piece of code that runs within the Ethereum blockchain, allowing a secure execution of some rules. Think of it as an “App” similar to how iPhone/Android has apps. Each interaction with the smart contract results in a few types of actions noted below in “Historical Action” types. Seeing a list of these in a time ordered view, will allow developers to understand the performance, type and use of their smart contract. 
@@ -21,19 +21,38 @@ Deliverables:
 	- UI Design of layout, examples of timeline types
 
 ------------------------------------------------------------------------------------------------------------------
-Design:
+Plan:
+1)	Contract Title		    Settings: Options: 
+	______________________________________________
+	ICON > NAME				    |0|
+	     | DATE				    |0|
+	     | HASH & extra                         |0|
+	     | -------------                        |0|
+	ICON > NAME                                 | |
+	     | DATE                                 | |
+	     | HASH & extra                         | |
+	     | -------------                        | |
+	ICON > NAME                                 | |
+	     | DATE                                 | |
+	     | HASH & extra                         | |
+
+Images:
 	- Line Segment (For Timeline)
 	- Action Marker (Circle, Arrow, etc.)
 	- Event Icon
 	- Transaction Icon
 	- Log Icon
-	
+
+Demo:
+	- Basic CSS Layout & Panels
+	- Timeline 'double' Panels
+	- Make Scrollable
+	- Design and Populate
+	- JavaScript
+
 Color Scheme: 
 	- Blue, White, Gray, Sometimes Orange
 Font(s): 
 	- Segoe UI
 Theme(s): 
-	- Classic, Updated
-
-
-
+	- Classic, Minimalist, New
