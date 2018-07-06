@@ -21,20 +21,42 @@ Deliverables:
 	- UI Design of layout, examples of timeline types
 
 ------------------------------------------------------------------------------------------------------------------
-Plan:
-1)	Contract Title		    Settings: Options: 
+Plan
+
+Syle 1:
+	Contract Title		    Settings: Options: 
 	______________________________________________
 	ICON > NAME				    |0|
-	     | DATE				    |0|
+	     | DATE, TIME			    |0|
 	     | HASH & extra                         |0|
 	     | -------------                        |0|
 	ICON > NAME                                 | |
-	     | DATE                                 | |
+	     | DATE, TIME                           | |
 	     | HASH & extra                         | |
 	     | -------------                        | |
 	ICON > NAME                                 | |
-	     | DATE                                 | |
-	     | HASH & extra                         | |
+	     | DATE, TIME                           | |
+	     | HASH & extra                         |_|
+
+Style 2:
+	Contract Title		    Settings: Options: 
+	______________________________________________
+        Jul > E	000HEX..., Time		            |0|
+	 6  | Name				    |0|
+	--------------------------------------------|0|
+	Jul > L	000HEX..., Time		     	    | |
+	 5  | Value				    | |
+	--------------------------------------------| |
+	Jul > T	000HEX..., Time			    | |	
+	 2  | Value				    | |
+	    | To: 00000Hex...  From: 00000Hex....   | |
+	    |---------------------------------------| |
+	    > E	000HEX..., Time		   	    | |
+	    | Name				    | |
+	--------------------------------------------| |
+	Jul > L	000HEX..., Time			    | |
+	 1  | Value				    | |
+	--------------------------------------------|_|
 
 Images:
 	- Line Segment (For Timeline)
@@ -52,7 +74,9 @@ Demo:
 
 Color Scheme: 
 	- Blue, White, Gray, Sometimes Orange
+
 Font(s): 
 	- Segoe UI
+
 Theme(s): 
-	- Classic, Minimalist, New
+	- Classic, Minimalist, Modern, New
