@@ -58,6 +58,21 @@ Style 2:
 	 1  | Value				    | |
 	--------------------------------------------|_|
 
+Style 3:
+	Contract Title		    Settings: Options: 
+	______________________________________________
+	Transactions	    ^		Events/Logs |0|
+                            |  ________________     |0|
+       ____________________ |-| Event - DATE   |    |0|
+      |	Transaction - DATE|-| | HEX            |    |0|     
+      |	HEX		  | # |_NAME___________|    | |
+      |	VALUE		  | |  ________________     | |
+      |	TO: HEX___________|-| | Log - DATE     |    | |
+			    | | Hex            |    | |
+			    | |_VALUE__________|    | |
+			    |                       | |
+	                    |                       |_|
+
 Images:
 	- Line Segment (For Timeline)
 	- Action Marker (Circle, Arrow, etc.)
