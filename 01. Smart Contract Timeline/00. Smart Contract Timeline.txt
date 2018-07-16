@@ -95,3 +95,39 @@ Font(s):
 
 Theme(s): 
 	- Classic, Minimalist, Modern, New
+------------------------------------------------------------------------------------------------------------------
+Update 1
+
+Task:
+	Combine the Layout/Style of Layout Sketch 3.0.png (Style 3), with the colors and theme of Layout Sketch 4.1.png
+
+Desgin:
+	Background Color: #003366 at 10% opacity
+	Rounded Corners: 3px
+	
+Demo Layout: 
+	Container {Body} - 3 columns
+		Panel - (620px)
+		    Titlebar - Top - Fixed
+		    Panel-Container
+			Date div
+			Timeline div
+			Action div
+
+
+
+
+
+
+
+
+
+			Date
+			    - Month
+			    - Day
+			Timeline
+			    - Action blocks
+
+
+
+
