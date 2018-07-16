@@ -113,21 +113,3 @@ Demo Layout:
 			Date div
 			Timeline div
 			Action div
-
-
-
-
-
-
-
-
-
-			Date
-			    - Month
-			    - Day
-			Timeline
-			    - Action blocks
-
-
-
-
