@@ -99,17 +99,23 @@ Theme(s):
 Update 1
 
 Task:
-	Combine the Layout/Style of Layout Sketch 3.0.png (Style 3), with the colors and theme of Layout Sketch 4.1.png
+	Combine Layout of Layout Sketch 3.0.png (Style 3), w/ theme of Layout Sketch 4.1.png
+		- Action Bubble Background Color: #003366 at 10% opacity
+		- Text Color: #003366 
+		- Action Bubble Rounded Corners: 3px
 
-Desgin:
-	Background Color: #003366 at 10% opacity
-	Rounded Corners: 3px
-	
-Demo Layout: 
-	Container {Body} - 3 columns
-		Panel - (620px)
-		    Titlebar - Top - Fixed
-		    Panel-Container
-			Date div
-			Timeline div
-			Action div
+------------------------------------------------------------------------------------------------------------------
+Update 2
+
+Task:
+	Adjustments to Demo_2.html design
+		- Reduce tile size & Font Weight (Event, Log, Transaction are a lil' heavy)
+		- Increase font size and improve color readability on timestamp
+		- Add more padding inside items with minimum of 10px (platform standard "gutter")
+
+	Timeline Drop-Down Filter
+		- Visually breakup the top bar from each container with a line or dropshadow. 
+		- Dropdown to top right of Historical Actions top area
+		- Show "Filter: " to left of the dropdown/select
+
+------------------------------------------------------------------------------------------------------------------

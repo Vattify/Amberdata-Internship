@@ -57,17 +57,18 @@
 			border-radius: 3px;
    			box-shadow: 1px 3px #f2f2f2;
    			position:relative;
-   			overflow-y: scroll;
-   			overflow-x: hidden;
    		}   	
    		
 			.titlebar {
-				height:50px;
+				height:30px;
 				width:300%;
 				padding-left:13px;
 				font-family:"Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 				font-weight:500;
 				position:relative;
+				box-shadow: 0px 2px #ccd6e0;
+				background-color:white
+
 			}	
 
    			.panel img{
