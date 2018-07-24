@@ -1,0 +1,14 @@
+Overview
+
+Goal:
+	- Create an announcement header image
+	- Complete by July 24th
+
+Use Case:
+	- Users want to see a friendly announcement image showing Amberdata & Aion partnership
+
+Requirements:
+	- Create Twitter image size (1280px x 720px)
+	- Use official Color logo of Amberdata and of Aion ("Amberdata + Aion")
+	- Set Title: "Amberdata Welcomes Aion Network"
+	- Background is a white tint of #003366
