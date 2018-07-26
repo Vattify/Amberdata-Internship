@@ -1,0 +1,41 @@
+﻿Overview
+
+Goal:
+	- Create new Amberdata App Icons
+	- Re-brand Social Media
+	- Complete by July 27th
+
+Use Case: 
+	- Users want to see a consistent Amberdata brand -- Uniformity ensures trust.
+
+Deliverables:
+	- Icons:
+		- Favicon (32 X 32 png) square (white background)
+		- 64 pixel square (white background, png, jpg)
+		- 72 pixel square (white background, png, jpg)
+		- 128 pixel square (white background, png, jpg)
+		- 256 pixel square (white background, png, jpg)
+		- 512 pixel square (white background, png, jpg)
+		- 1024 pixel square (white background, png, jpg)
+		- 5000 pixel square (white background, png, jpg)
+	
+	- Social Media
+		- FB account header image (851px x 315px) & profile image (360px x 360px)
+		- Twitter account header image (1500px x 500px) & profile image (400px x 400px)
+		- LinkedIn account header image (1536px x 768px) & profile image (400px x 400px)
+		- Medium account header image (1500px x 750px) & profile image (1400px x 1120px)
+		- Email Signature (See Tongtong!)
+
+** Source of Social Media Picture Dimensions
+https://www.godaddy.com/garage/facebook-profile-picture-size-and-more/
+
+------------------------------------------------------------------------------------------------------------------
+
+Email Signature Format
+
+<b>'First-Name' 'Last-Name'<b>
+'Title', Amberdata
++1 '777.777.7777'
+<heref>www.amberdata.io | LinkedIn<heref>
+Logo
+

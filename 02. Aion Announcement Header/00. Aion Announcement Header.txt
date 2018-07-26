@@ -12,3 +12,5 @@ Requirements:
 	- Use official Color logo of Amberdata and of Aion ("Amberdata + Aion")
 	- Set Title: "Amberdata Welcomes Aion Network"
 	- Background is a white tint of #003366
+
+------------------------------------------------------------------------------------------------------------------
